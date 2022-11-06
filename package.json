@@ -1,0 +1,22 @@
+{
+  "name": "dynamodb-explo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelKohler/dynamodb-explo.git"
+  },
+  "author": "Michael Kohler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichaelKohler/dynamodb-explo/issues"
+  },
+  "homepage": "https://github.com/MichaelKohler/dynamodb-explo#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1248.0"
+  }
+}
