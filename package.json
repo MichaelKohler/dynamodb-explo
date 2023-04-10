@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/MichaelKohler/dynamodb-explo#readme",
   "dependencies": {
-    "aws-sdk": "^2.1248.0"
+    "aws-sdk": "^2.1354.0"
   }
 }
